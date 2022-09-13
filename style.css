@@ -70,8 +70,8 @@ a {
 }
 
 .cell {
-    min-width: 70px;
-    height: 42px;
+    min-width: 67px;
+    height: 45px;
     border: 1px solid #80786a;
     box-shadow: inset 0 0 14px -7px #000000;
     border-radius: 0.2em;
